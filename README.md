@@ -3,4 +3,4 @@ Frontend Developer building real-world projects
 
 - 🚀 Currently working on portfolio & JS projects  
 - 🌱 Learning Backend + DSA  
-- 💻 Tech: HTML, CSS, JavaScript  
+- 💻 Tech: HTML, CSS, JavaScript , react  
